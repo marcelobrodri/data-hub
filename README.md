@@ -10,6 +10,7 @@ O princípio é simples: se os dados permitem projetar os próximos meses, ela p
 
 ## Instalação
 
+Clique em "Code" (botão verde), escolha download ZIP. Em seguida basta extrair tudo.
 Copie a pasta `data-hub` para o diretório de skills do Claude:
 
 | Sistema | Caminho |
